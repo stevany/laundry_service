@@ -1,14 +1,13 @@
 <h3> LAUNDRY SERVICE </h3>
+A Laundry Service built with #Flutter
 <h4>Menu:</h4>
 <ul>
-<li>
-  OnBoarding
-  Login
-  Sign Up
-  Home
-  Product List
-  Note
-</li>
+<li>OnBoarding</li>
+<li>Login</li>
+<li>Sign Up</li>
+<li>Home</li>
+<li>Product List</li>
+<li>Note</li>
 </ul>
 <p align="center">
 <img src="onboarding.png" width="250">  <img src="login.png" width="250"> <img src="signup.png" width="250">
