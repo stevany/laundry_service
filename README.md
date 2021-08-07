@@ -8,6 +8,8 @@ A Laundry Service built with #Flutter
 <li>Home</li>
 <li>Product List</li>
 <li>Note</li>
+<li>Review Order</li>
+<li>Pickup Location</li>
 <li>Pickup and Delivery Date and Time</li>
 </ul>
 <p align="center">
@@ -18,6 +20,9 @@ A Laundry Service built with #Flutter
 </p>
 <p align="center">
 <img src="note1.png" width="250">  <img src="note2.png" width="250"> <img src="note3.png" width="250">
+</p>
+<p align="center">
+<img src="review-order.png" width="250">  <img src="pickup-address1.png" width="250"> <img src="pickup-address2.png" width="250">
 </p>
 
 <p align="center">
