@@ -26,5 +26,9 @@ A Laundry Service built with #Flutter
 </p>
 
 <p align="center">
-<img src="pickup-date.png" width="250">  <img src="pickup-date2.png" width="250"> 
+<img src="pickup-address3.png" width="250"> <img src="pickup-address4.png" width="250">
 </p>
+<p align="center">
+<img src="pickup-address3.png" width="250"> <img src="pickup-date.png" width="250">  <img src="pickup-date2.png" width="250"> 
+</p>
+
