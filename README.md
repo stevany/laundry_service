@@ -11,6 +11,8 @@ A Laundry Service built with #Flutter
 <li>Review Order</li>
 <li>Pickup Location</li>
 <li>Pickup and Delivery Date and Time</li>
+<li>Payment</li>
+<li>Order Details</li>
 </ul>
 <p align="center">
 <img src="onboarding.png" width="250">  <img src="login.png" width="250"> <img src="signup.png" width="250">
@@ -26,9 +28,9 @@ A Laundry Service built with #Flutter
 </p>
 
 <p align="center">
-<img src="pickup-address3.png" width="250"> <img src="pickup-address4.png" width="250">
+<img src="pickup-address3.png" width="250"> <img src="pickup-address4.png" width="250"> <img src="pickup-date1.png" width="250">
 </p>
 <p align="center">
-<img src="pickup-date.png" width="250">  <img src="pickup-date2.png" width="250"> 
+<img src="pickup-date2.png" width="250">  <img src="payment.png" width="250"> <img src="order-details.png" width="250"> 
 </p>
 
